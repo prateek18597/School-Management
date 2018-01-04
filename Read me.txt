@@ -1,0 +1,9 @@
+1.	Open MySQL.
+2.	Create database(School).
+3.	Type command-
+•	Use school;
+•	Source <path of database from CD>
+4.	Open Netbeans.
+5.	Open Project(School Management).
+6.	Run Project.
+7.	SignUp as New user.
